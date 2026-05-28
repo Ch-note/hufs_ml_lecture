@@ -1,0 +1,7 @@
+{
+  "name": "AI English Tutor Live",
+  "description": "A real-time multimodal AI English tutor using Gemini Live API for conversational practice in various scenarios.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
